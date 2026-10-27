@@ -29,6 +29,7 @@
     </ItemGroup>
 
     <ItemGroup>
+        <PackageReference Include="Microsoft.NETCore.App" Version="2.1.29" />
         <EmbeddedResource Update="Resources\Strings.resx">
             <Generator>ResXFileCodeGenerator</Generator>
             <LastGenOutput>Strings.Designer.cs</LastGenOutput>
